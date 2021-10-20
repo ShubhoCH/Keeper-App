@@ -4,6 +4,7 @@ import Footer from "./Footer";
 import Note from "./Note";
 import CreateArea from "./CreateArea";
 
+
 //////////////WITHOUT SIMPLIFICATION:
 // function createNotes(noteItem){
 //     return <Note
@@ -61,4 +62,3 @@ function App() {
 }
 
 export default App;
-
